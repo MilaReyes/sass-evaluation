@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Noticias</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+<div class="col-2">
+		<div class="row">
+			<h1>News</h1>
+		</div>
+	</div>
+
+  <nav>
+  <div class="col-9">
+  <div class="row">
+    <div class="nav-wrapper">
+      <ul id="nav-mobile" class="left hide-on-med-and-down">
+        <li><a href="#">WORLD.</a></li>
+        <li><a href="#">BUSINESS.</a></li>
+        <li><a href="#">POLITICS.</a></li>
+        <li><a href="#">SPORTS.</a></li>
+        <li><a href="#">HEALTH.</a></li>
+        <li><a href="#">SCIENCES.</a></li>
+        <li><a href="#">SPOTLIGHT.</a></li>
+      </ul>
+    </div>
+<div class="col-3">
+
+  <nav>
+    <div class="nav-wrapper">
+      <form>
+        <div class="input-field">
+          <input id="search" type="search" required>
+          <label for="search"><i class="material-icons">search</i></label>
+          <i class="material-icons">close</i>
+        </div>
+      </form>
+    </div>
+  </nav>
+	</div>
+</div>
+  </nav>
+</body>
+</html>
